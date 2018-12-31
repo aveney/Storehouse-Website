@@ -1,0 +1,24 @@
+h1 { font-weight: bold; }
+
+nav { text-align: center; }
+
+#head { height: 100px;
+        margin-bottom: 20px; }
+ 
+#rbod { height: 1300px;}
+ 
+#ingredients { width: 130px;
+				height: 400px;
+				font-size: 7pt;
+				margin-left: 10px; }
+				
+#instructions { width: 220px; 
+                height: 400px;
+                margin-right: 0px; }
+                
+#recipe1 { width: 360px; 
+            height: 700px;
+            font-size: 7pt; }
+            
+#finishedPro { width: 120px; 
+                height: 120px; }

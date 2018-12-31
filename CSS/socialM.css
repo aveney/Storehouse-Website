@@ -1,0 +1,27 @@
+h1 { font-weight: bold; }
+
+nav { text-align: center; }
+
+#head { height: 100px;
+        margin-bottom: 20px; }
+        
+#socialBod { height: 1560px; }
+
+iframe { width: 280px; 
+		height: 400px;
+		margin-left: 40px;
+		margin-bottom: 15px; }
+
+#social { width: 370px;
+            height: 1100px; }
+
+#SMpics {  height: 300px; 
+		width: 340px;
+		 }
+		
+#vineyard { width: 400px; 
+			height: 125px;
+		    padding-left: 140px; }
+
+.flexImg { width: 70px; 
+			height: 70px; }

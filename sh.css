@@ -1,0 +1,221 @@
+h1 { text-align: center;
+	margin-bottom: 50px; 
+	color: #31bc3a;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-shadow: 2px 2px 2px #000000; }
+	
+h2 { text-align: center; 
+	color: #31bc3a;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-shadow: 2px 2px 2px #000000; }
+	
+h4 { text-align: center; 
+	color: #31bc3a;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-shadow: 2px 2px 2px #000000;
+	margin-bottom: 20px; }
+h5 { text-align: center; }	
+nav { margin-bottom: 20px; }
+nav li { font-size: 17pt;
+			font-weight: bold; }
+form { background-color: #fc5d5d; 
+		color: #42f44e;
+		padding: 20px; 
+		width: 400px; 
+		text-align: center; }
+legend { text-align: center; }
+#indexBod { height: 1700px; }
+#socialBod { height: 1270px; }
+#rbod { height: 2270px;}
+#feedBod { height: 1200px; }
+/* Header Image */	
+#head { display: block;
+			margin-left: auto;
+			margin-right: auto;}
+
+/* Homepage Background */
+#about { width: 950px;
+		height: 1100px; 
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 10px;
+		padding-right: 20px; 
+		padding-left: 20px;
+		background-color: #ffe9aa;
+		border-radius: 10px; }
+
+/* About Us Background */
+#Welcoming { width: 370px; 
+				height: 275px;
+				margin-top: 40px; 
+				margin-left: 15px;
+				padding-right: 20px; 
+				padding-left: 20px; 
+				border-radius: 10px;
+				background-color: #ddedd0;
+				opacity: .8;
+				float: left; 
+				clear: float; }
+				
+#storeInfo { text-align: center;
+			line-height: 33px; 
+			font-size: 18px; 
+			font-weight: bold; 
+			color: #f4a742;
+			text-shadow: 1px 1px 1px #000000; }
+
+#ownerInfo { width: 440px; 
+			height: 415px;
+			margin-top: 40px;
+			margin-right: 15px;
+			padding-right: 25px; 
+			border-radius: 10px;
+			float: right; 
+			clear: float;
+			background-color: #eaefeb;
+			opacity: .75; }
+
+#ownersInfotxt { font-size: 11pt;
+				text-align: center; }
+
+#card { float: left;
+		clear: float;
+		margin-top: -100px; 
+		margin-left: 60px; }		
+
+#infoImg { display: block;
+			margin: auto; }		
+/* Carousel Resize */		
+#newDiv { width: 450px;
+		margin-right: 15px; 
+		float: right;
+		clear: float;
+		box-shadow: 5px 5px 5px;}		 
+
+/* Nav info */
+#text { font-weight: bold;
+		font-size: 20pt; }
+.nav-pills > li > a.active {
+  background-color: #fc5d5d !important;
+  color: #42f44e !important;
+}
+
+/* Social Media Page Background */
+#social { width: 1050px;
+		height: 800px; 
+		margin-right: auto;
+		margin-left: auto;
+		margin-top: 20px; 
+		background-color: #ffe9aa; }
+		
+/* Facebook info */
+iframe { height: 500px; 
+		width: 280px;
+		margin-left: 70px;
+		margin-top: 20px;
+		float: left; 
+		clear: float; }
+		
+#SMpics { float: right; 
+		clear: float; 
+		height: 400px; 
+		width: 600px; 
+		margin-right: 25px; 
+		border-style: double;
+		border-color: #31bc3a; }
+		
+.flex-container {  list-style: none; 
+					display: flex;
+					flex-direction: row; 
+					flex-wrap: wrap;
+					align-content: center; 
+					}
+.flex-item { padding-right: 20px;
+			margin-bottom: 25px; 
+			margin-right: auto;
+			margin-left: auto; }
+#vineyard { float: right; 
+			clear: float; 
+			margin-right: 30px; 
+			margin-top: 20px;
+			width: 560px; 
+			height: 250px; } 
+			
+/* Recipes */
+#ingredients { width: 300px; 
+				height: 315px;
+				margin-left: 20px;
+				padding: 10px; 
+				background-color: #c7f7f9;
+				color: #448fd6; 
+				text-align: center;
+				float: left; 
+				clear: float; }
+
+#ingredientsHead { font-size: 15pt; }
+
+#instructions { width: 800px; 
+				height: 700px;
+				margin-right: 100px; 
+				background-color: #ffe9aa; 
+				float: right; 
+				clear: float; }
+
+#finishedPro { margin-left: auto;
+				margin-right: auto; 
+				margin-top: 15px; 
+				margin-bottom: 15px; 
+				display: block; }
+		
+#recipe1 { height: 750px; 
+			width: 1300px; }
+
+hr { background-color: #31bc3a;
+	margin-bottom: 50px; 
+	width: 90%; }
+ol {list-style-type: upper-roman;}	
+
+/* Feedback Page */
+#backgroundInfo { width: 550px; 
+				height: 350px;
+				padding: 15px; 
+				margin-top: 20px;
+				margin-right: auto;
+				margin-left: auto; 
+				border-radius: 10px;
+				background-color: #ddedd0;
+				opacity: .8; }
+				
+#feedback {  width: 900px;
+		height: 900px; 
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 10px;
+		padding-right: 20px; 
+		padding-left: 20px;
+		padding-top: 30px; 
+		background-color: #ffe9aa;
+		border-radius: 10px; }
+		
+#feedInfo { line-height: 25px; 
+			font-size: 14px; 
+			font-weight: bold; 
+			color: #f4a742;
+			text-shadow: 1px 1px 1px #000000; }
+			
+#donation { background-color: #ddedd0; 
+			width: 700px; 
+			height: 380px; 
+			margin-left: auto; 
+			margin-right: auto;
+			margin-top: 10px;
+			padding-right: 30px; 
+			padding-left: 20px; 
+			}
+#donationInfo { text-align: center; 
+			font-size: 16px; 
+			font-weight: bold; 
+			color: #f4a742; }
+
+.important { color: #fc5d5d; 
+				font-size: 17pt; }
